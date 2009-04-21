@@ -1,8 +1,7 @@
 ;;; html-tt.el --- Template Toolkit for html-helper-mode
-;;; $Id: html-tt.el 40 2002-05-03 02:54:12Z yoshiki $
 ;; Copyright (C) 2002 by Free Software Foundation, Inc.
 
-;; Author: Yoshiki KURIHARA <yoshiki@clouder.jp>
+;; Author: Yoshiki KURIHARA <kurihara@cpan.org>
 ;; Keywords: tools, languages
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -61,7 +60,7 @@
 ;;      May 03, 2002 - Update
 ;;                     use tempo.el
 ;;                     add some insertion
-;;                
+;;
 
 ;; Code:
 
